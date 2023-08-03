@@ -1,0 +1,15 @@
+# tk pkg-config source file
+
+prefix=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub
+exec_prefix=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub
+libdir=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub/lib
+includedir=${prefix}/include
+
+Name: The Tk Toolkit
+Description: Tk is a cross-platform graphical user interface toolkit, the standard GUI not only for Tcl, but for many other dynamic languages as well.
+URL: https://www.tcl-lang.org/
+Version: 8.6.12
+Requires: tcl >= 8.6
+Libs: -L${libdir} -ltk8.6 -ltkstub8.6
+Libs.private:  -lX11
+Cflags: -I${includedir}

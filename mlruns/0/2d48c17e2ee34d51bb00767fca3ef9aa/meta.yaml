@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/mlruns/0/2d48c17e2ee34d51bb00767fca3ef9aa/artifacts
+end_time: 1691050361353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d48c17e2ee34d51bb00767fca3ef9aa
+run_name: invincible-toad-843
+run_uuid: 2d48c17e2ee34d51bb00767fca3ef9aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691050359575
+status: 3
+tags: []
+user_id: hrishikesh

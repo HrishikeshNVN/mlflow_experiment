@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub
+exec_prefix=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub
+libdir=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub/lib
+includedir=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.4.2
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread

@@ -1,0 +1,13 @@
+prefix=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub
+exec_prefix=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub
+libdir=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub/lib
+sharedlibdir=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub/lib
+includedir=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,11 @@
+prefix=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/venv_dagshub/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

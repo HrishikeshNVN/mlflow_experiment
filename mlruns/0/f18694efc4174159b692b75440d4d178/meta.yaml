@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/mlruns/0/f18694efc4174159b692b75440d4d178/artifacts
+end_time: 1691050084234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f18694efc4174159b692b75440d4d178
+run_name: fun-dolphin-135
+run_uuid: f18694efc4174159b692b75440d4d178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691050082560
+status: 3
+tags: []
+user_id: hrishikesh

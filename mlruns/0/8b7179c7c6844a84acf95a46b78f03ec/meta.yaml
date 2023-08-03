@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hrishikesh/ML_AI/Learnings_Trials_Practices/Learnings/Krish_Naik/Dags_hub/mlruns/0/8b7179c7c6844a84acf95a46b78f03ec/artifacts
+end_time: 1691062843626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b7179c7c6844a84acf95a46b78f03ec
+run_name: serious-shrimp-648
+run_uuid: 8b7179c7c6844a84acf95a46b78f03ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691062841971
+status: 3
+tags: []
+user_id: hrishikesh
